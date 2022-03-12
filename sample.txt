@@ -1,5 +1,5 @@
 Name : Bhuvan Kumar
 Phone : 8008509709
 Address : Tirupathi
-State: Tirupathi
+State: AP
 country : India
